@@ -1,0 +1,1 @@
+<?= 'Hola equipos list'?>
